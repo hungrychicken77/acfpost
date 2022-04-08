@@ -1353,9 +1353,10 @@ ul.social-icons li {
 
 
 #site-header {
-	background: #fff;
+	background: red;
 	position: relative;
-	border-style:solid;
+	
+	
 }
 
 .header-inner {
