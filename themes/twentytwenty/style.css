@@ -420,9 +420,9 @@ hr {
 hr.styled-separator {
 	background: linear-gradient(to left, currentColor calc(50% - 16px), transparent calc(50% - 16px), transparent calc(50% + 16px), currentColor calc(50% + 16px));
 	background-color: transparent !important;
-	border: none;
+	
 	height: 0.1rem;
-	overflow: visible;
+	
 	position: relative;
 }
 
