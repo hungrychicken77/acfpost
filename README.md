@@ -43,6 +43,7 @@ Step 12 - These updates were pushed to the Git Repository
 Step 13 - Added three pages to show the archives of posts related to each post type
 
 Step 13 - Made major CSS updates to the overall site 
+
        The nav menu 
        Overall colour scheme
        Page layouts
