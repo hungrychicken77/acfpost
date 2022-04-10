@@ -9,7 +9,7 @@ Step 0 - Firstly I throughly read over the excercise breif and broke down the ta
 **Accessibility:** Langeuage change
 **Styling:** Using CSS
 
-Step 1 - So to start of I signed up to a hosting site being Hostringer and installed a fresh copy of Worpress 5.9.2 core files on to the server 
+Step 1 - So to start of I signed up to a hosting site being Hostringer and installed a fresh copy of Worpress 5.9.3 core files on to the server 
 
 Step 2 - I then made a GIT Repository 
 
